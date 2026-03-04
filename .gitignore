@@ -1,0 +1,10 @@
+node_modules/
+.env
+.DS_Store
+npm-debug.log
+config.json
+package-lock.json
+# Keep config.json if the user wants to deploy keys, but usually bad practice. 
+# However, for this user, they likely want to deploy config.json effortlessly. 
+# I will NOT ignore config.json for now as it contains keys they might need on server unless they use Env Vars.
+# But standard practice is to ignore it. Let's ignore node_modules only for now to fix the error.
