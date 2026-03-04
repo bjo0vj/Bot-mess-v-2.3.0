@@ -25,7 +25,7 @@
 ---
 
 ## BƯỚC 3 — CÀI GIT
-
+"Bước này bỏ qua các bạn hoàn toàn ko cần nha"
 1. Vào: https://git-scm.com/download/win
 2. Tải → cài → nhấn Next hết
 3. Kiểm tra: `git --version`
